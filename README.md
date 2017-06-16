@@ -1,7 +1,5 @@
 # Tesseract for node.js
 
-[![NPM](https://nodei.co/npm/node-tesseract.png)](https://nodei.co/npm/node-tesseract/)
-
 A simple wrapper for the Tesseract OCR package for node.js
 
 You can then go about installing the node-module to expose the JavaScript API:
