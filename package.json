@@ -1,0 +1,19 @@
+{
+  "name": "tesseract-hocr",
+  "version": "1.0.0",
+  "description": "A simple wrapper for the Tesseract OCR package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "tesseract",
+    "hocr"
+  ],
+  "author": "Lavina Chitara <lavina.chitara@wwindia.com>",
+  "license": "ISC"
+}
