@@ -26,7 +26,7 @@ var options = {
 	l: 'deu',
 	psm: 6,
 	binary: '/usr/local/bin/tesseract',
-	output: 'path/to/store/hocrfile'
+	output: 'path/to/store'
 };
 
 tesseract.process(__dirname + '/path/to/image.jpg', options, function(err, text) {

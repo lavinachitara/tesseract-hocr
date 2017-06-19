@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 /***Including custom modules***/
-var utils = require('../customutils');
+var utils = require('./customutils');
 var exec = require('child_process').exec;
 var fs = require('fs');
 
